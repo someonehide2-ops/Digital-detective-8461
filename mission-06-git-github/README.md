@@ -17,7 +17,7 @@ Staging prepares selected changes for a commit. Committing records the staged sn
 ### Task 6.2 — Branch
 The required branch name is `update-about`. The root README should contain a short section titled “My Learning” with two or three things learned.
 
-[FILL IN: Describe the learning points you added and confirm whether the branch was actually created and pushed.]
+After creating the branch, I need to add a section called My Learning to the main README. I can write two or three things I have learned so far.
 
 ### Task 6.3 — Pull Request
 A branch is a separate line of development. A Pull Request asks for changes from one branch to be reviewed and considered for merging into another branch. It helps people discuss and check changes before combining them.
