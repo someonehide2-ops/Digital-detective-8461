@@ -6,15 +6,15 @@ I've organized my work into separate folders so each mission is easy to locate
 
 ## Missions
 
-Mission 0 - GitHub workspace
-Mission 1 - Know your computer
-Mission 2 - Terminal basics
-Mission 3 - Operating system
-Mission 4 - How programs run
-Mission 5 - Numbers and data
-Mission 6 - Git and GitHub
-Mission 7 - Computer networks
-Mission 8 - Final report
+- Mission 0 - GitHub workspace
+- Mission 1 - Know your computer
+- Mission 2 - Terminal basics
+- Mission 3 - Operating system
+- Mission 4 - How programs run
+- Mission 5 - Numbers and data
+- Mission 6 - Git and GitHub
+- Mission 7 - Computer networks
+- Mission 8 - Final report
 
 ## What I learned
 
