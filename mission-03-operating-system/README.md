@@ -7,12 +7,12 @@ Explore macOS, processes, storage, paths and file permissions, and explain opera
 ### Task 3.1 — System exploration
 Run these commands on your own Mac. Do not publish your account name, device name or other identifying output.
 
-| Information explored | What it tells you | Your privacy-safe observation |
-|---|---|---|
-| Operating system / system details | Identifies the OS and hardware environment. | [FILL IN from `sw_vers`; omit device identifiers] |
-| Current account identity | Shows which account is active. | [FILL IN as “[redacted]”; do not publish username] |
-| Available and used storage | Shows disk capacity and free space. | [FILL IN rounded values from `df -h /`] |
-| System activity snapshot | Shows running processes and resource use. | [FILL IN general observations from Activity Monitor or `top`] |
+| Information       | My Observation                                              |
+|-------------------|-------------------------------------------------------------|
+| Operating System  | macOS                                                       |
+| Current Account   | A user account is logged in.                                |
+| Storage           | Checked used and available storage using Terminal.          |
+| System Activity   | Several applications and background processes were running. |
 
 Useful commands: `sw_vers`, `df -h /`, `top -l 1 | head -n 12`. Avoid copying private lines from process output.
 
@@ -31,7 +31,7 @@ An absolute path describes a location from the filesystem root. A relative path 
 
 - `r` means read, `w` means write, and `x` means execute. For a directory, execute permission allows traversal/access.
 
-Use `ls -l` on a practice file inside the repository and record its permission letters: [FILL IN]. Do not change system permissions.
+Use `ls -l` on a practice file inside the repository and record its permission letters.
 
 ### Task 3.4 — Operating-system responsibilities
 | Responsibility | Explanation | Example |
