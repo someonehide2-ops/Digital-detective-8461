@@ -1,4 +1,3 @@
-"""Convert a positive whole decimal number to binary and hexadecimal."""
 
 def main():
     raw_value = input("Enter a positive whole number: ").strip()
