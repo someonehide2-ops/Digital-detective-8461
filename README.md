@@ -22,3 +22,10 @@ While doing these missions, I am getting more comfortable with Terminal and lear
 
 I will complete each mission, update its README, and push it to GitHub before moving to the next one.
 
+## My details
+
+- Name: Shaik Aiesha 
+- USN: 2392608461
+- GitHub: someonehide2-ops
+- Repository: [digital-detective-8461]
+
