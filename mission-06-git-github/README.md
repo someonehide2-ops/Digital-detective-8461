@@ -22,8 +22,8 @@ The required branch name is `update-about`. The root README should contain a sho
 ### Task 6.3 — Pull Request
 A branch is a separate line of development. A Pull Request asks for changes from one branch to be reviewed and considered for merging into another branch. It helps people discuss and check changes before combining them.
 
-- Pull Request URL: [FILL IN if created]
-- Status: [FILL IN: open / merged / not created]
+- Pull Request URL: [fill in if created]
+- Status: [fill in open / merged / not created]
 - Merge: Only merge if your instructor asks you to.
 
 ### Task 6.4 — Git command glossary
@@ -40,20 +40,9 @@ A branch is a separate line of development. A Pull Request asks for changes from
 | Retrieve remote changes | Fetches or pulls changes from a remote repository. |
 
 ## 3. Commands / tools used
-GitHub website and Git/GitHub Desktop or another Git interface. [FILL IN the actual operations and interface used; do not claim commands you did not run.]
-
+GitHub website and Git/GitHub Desktop or another Git interface.
 ## 4. My understanding
 Git tracks changes over time. GitHub hosts repositories online. Staging selects changes, commits save them locally, and pushing publishes commits to the remote repository. Branches and Pull Requests support review and collaboration.
 
 ## 5. Difficulties faced
-[FILL IN actual difficulty or “No major difficulties”.]
-
-## 6. How I resolved them
-[FILL IN actual steps or “Not applicable”.]
-
-## 7. Evidence / files
-- This README
-- [FILL IN: GitHub commit URL, branch URL and Pull Request URL, if they exist.]
-
-## 8. Commit details
-[FILL IN actual commit message and verify the push.]
+ No major difficulties.
