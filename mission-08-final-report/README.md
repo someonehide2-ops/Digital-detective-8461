@@ -32,10 +32,3 @@ I followed the instructions, practised the commands and checked the files again
 ## 7. Evidence / files
 - Root `README.md`
 - All mission READMEs and required Python files
-
-## 8. Commit details
-[FILL IN actual final commit message and verify that the final changes are pushed.]
-
-## Submission
-- Public GitHub repository URL: [FILL IN]
-- Instructor form submitted: [FILL IN after submitting]
