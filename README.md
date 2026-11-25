@@ -1,1 +1,17 @@
 # Digital-detective-8461
+
+This is my submission for the Digital Detective assignment. Through this assignment, I'm learning the fundamentals of how computers work, including using the Terminal, understanding files and programs, and getting started with Git and GitHub.
+
+I've organized my work into separate folders so each mission is easy to locate
+
+Missions
+
+Mission 0 - GitHub workspace
+Mission 1 - Know your computer
+Mission 2 - Terminal basics
+Mission 3 - Operating system
+Mission 4 - How programs run
+Mission 5 - Numbers and data
+Mission 6 - Git and GitHub
+Mission 7 - Computer networks
+Mission 8 - Final report
