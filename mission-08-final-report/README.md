@@ -14,36 +14,24 @@ Repository review checklist:
 - [ ] Required GitHub branch and Pull Request activity is visible.
 - [ ] Private information has been removed from evidence and output.
 - [ ] All final changes have been pushed.
+## My Details 
+- Repository name: [digital-detective-8461]
+- GitHub repository URL: [https://github.com/someonehide2-ops/Digital-detective-8461]
 
-### Mission status
-| Mission | Status | Commit visible on GitHub? |
-|---|---|---|
-| 0 — Setup | [FILL IN] | [FILL IN] |
-| 1 — Computer basics | [FILL IN] | [FILL IN] |
-| 2 — Terminal | [FILL IN] | [FILL IN] |
-| 3 — Operating system | [FILL IN] | [FILL IN] |
-| 4 — Programs | [FILL IN] | [FILL IN] |
-| 5 — Numbers and data | [FILL IN] | [FILL IN] |
-| 6 — Git and GitHub | [FILL IN] | [FILL IN] |
-| 7 — Networking | [FILL IN] | [FILL IN] |
-| 8 — Final report | [FILL IN] | [FILL IN] |
 
 ## 3. Commands / tools used
-Finder, text editor, GitHub website, and [FILL IN the Git interface/tools actually used].
-
+Finder, text editor and GitHub website
 ## 4. My understanding
 A well-organised repository makes the work easy to inspect. A final review checks that the required files exist, programs work, privacy is protected and the latest commits are available online.
 
 ## 5. Difficulties faced
-[FILL IN actual final difficulty or “No major difficulties”.]
-
+I had some trouble managing all the mission folders and getting to grips with certain Git commands.
 ## 6. How I resolved them
-[FILL IN actual steps or “Not applicable”.]
+I followed the instructions, practised the commands and checked the files again
 
 ## 7. Evidence / files
 - Root `README.md`
 - All mission READMEs and required Python files
-- [FILL IN: Repository URL and any Pull Request link]
 
 ## 8. Commit details
 [FILL IN actual final commit message and verify that the final changes are pushed.]
