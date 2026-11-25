@@ -30,22 +30,3 @@ Explain IPOS, identify hardware and software, and describe everyday computer-bas
 | ATM | Provides banking services | Card and PIN | Cash or transaction receipt |
 | Traffic signal controller | Controls traffic lights | Sensors or programmed timing | Red, amber or green signal |
 | Ticket vending machine | Issues travel or event tickets | Selected ticket and payment | Printed or digital ticket |
-
-## 3. Commands / tools used
-- Finder and a text editor to prepare this table.
-- [FILL IN: Any tools you actually used.]
-
-## 4. My understanding
-IPOS describes the basic flow of information in a computer. Hardware is the physical equipment, while software is the set of instructions and programs that tell the hardware what to do. Many everyday devices are computer systems because they accept input, process it and produce an output.
-
-## 5. Difficulties faced
-[FILL IN your actual difficulty, or “No major difficulties”.]
-
-## 6. How I resolved them
-[FILL IN what you actually did, or “Not applicable”.]
-
-## 7. Evidence / files
-- This README and any privacy-safe evidence added to `evidence/`.
-
-## 8. Commit details
-[FILL IN actual commit message and verify that the commit was pushed.]
