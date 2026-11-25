@@ -58,20 +58,10 @@ brew list
 If `brew` is not found, record that Homebrew is not installed and do not install it just for this assignment.
 
 ## 3. Commands / tools used
-`pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `cat`, `printf`, `head`, `brew --version`, `brew list`. [FILL IN only commands you actually ran.]
-
+`pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `cat`, `printf`, `head`, `brew --version`, `brew list`. 
 ## 4. My understanding
 Terminal commands perform actions in the current working directory. Flags modify a command's behaviour, and pipes connect commands so one command's output can be processed by another.
 
 ## 5. Difficulties faced
-[FILL IN actual errors or “No major difficulties”.]
+I did not face any particular major difficulties.
 
-## 6. How I resolved them
-[FILL IN actual steps or “Not applicable”.]
-
-## 7. Evidence / files
-- Command observations in this README.
-- [FILL IN: Add a privacy-safe screenshot or output if required.]
-
-## 8. Commit details
-[FILL IN actual commit message and verify the push.]
