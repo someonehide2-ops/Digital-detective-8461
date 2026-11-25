@@ -4,7 +4,7 @@ This is my submission for the Digital Detective assignment. Through this assignm
 
 I've organized my work into separate folders so each mission is easy to locate
 
-Missions
+## Missions
 
 Mission 0 - GitHub workspace
 Mission 1 - Know your computer
@@ -16,7 +16,7 @@ Mission 6 - Git and GitHub
 Mission 7 - Computer networks
 Mission 8 - Final report
 
-What I learned
+## What I learned
 
 While doing these missions, I am getting more comfortable with Terminal and learning how files are organised. I am also practising basic Python and understanding how Git keeps track of changes.
 
