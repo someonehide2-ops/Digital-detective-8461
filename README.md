@@ -15,3 +15,10 @@ Mission 5 - Numbers and data
 Mission 6 - Git and GitHub
 Mission 7 - Computer networks
 Mission 8 - Final report
+
+What I learned
+
+While doing these missions, I am getting more comfortable with Terminal and learning how files are organised. I am also practising basic Python and understanding how Git keeps track of changes.
+
+I will complete each mission, update its README, and push it to GitHub before moving to the next one.
+
