@@ -18,7 +18,7 @@ Create a public GitHub repository with the required mission folders and a root R
 A repository is a project space that stores files and tracks their changes. Separating work into mission folders makes the assignment easier to navigate and review.
 
 ## 5. Difficulties faced
-Did not face any major difficultie.
+Did not face any major difficulties.
 
 ## 6. Evidence / files
 - Root `README.md`
