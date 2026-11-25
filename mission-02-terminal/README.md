@@ -5,17 +5,17 @@ Practise Terminal navigation and safe file operations, understand flags and pipe
 
 ## 2. Work completed
 ### Task 2.1 — Command reference
-| Operation | Command example | What it does | What I observed |
-|---|---|---|---|
-| Current directory | `pwd` | Prints the current folder path. | [FILL IN after running] |
-| Directory listing | `ls` | Lists visible files and folders. | [FILL IN] |
-| Detailed listing | `ls -l` | Shows details such as permissions, owner, size and date. | [FILL IN; redact private details] |
-| Change directory | `cd ..` | Moves to the parent folder. | [FILL IN] |
-| Create directory | `mkdir terminal-practice` | Creates a folder. | [FILL IN] |
-| Create empty file | `touch notes.txt` | Creates an empty file if it does not exist. | [FILL IN] |
-| Copy file | `cp notes.txt notes-copy.txt` | Creates a copy. | [FILL IN] |
-| Move / rename | `mv notes-copy.txt backup.txt` | Moves or renames a file. | [FILL IN] |
-| Display contents | `cat notes.txt` | Prints the file contents. | [FILL IN] |
+| Operation | Command | What it does |
+|---|---|---|
+| Show current location | `pwd` | Shows the current folder |
+| List files | `ls` | Shows files and folders |
+| Detailed list | `ls -l` | Shows file details |
+| Go back one folder | `cd ..` | Moves to the parent folder |
+| Create folder | `mkdir practice` | Creates a new folder |
+| Create file | `touch notes.txt` | Creates an empty file |
+| Copy file | `cp notes.txt copy.txt` | Creates a copy |
+| Rename file | `mv copy.txt new-copy.txt` | Changes the file name |
+| View file | `cat notes.txt` | Shows the file content |
 
 ### Task 2.2 — Safe file changes
 Perform these examples only inside your repository's `terminal-practice` folder.
