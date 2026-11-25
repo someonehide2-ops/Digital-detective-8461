@@ -21,13 +21,14 @@ A process is an instance of a program that is currently running. A PID (process 
 
 - What is a process? A running instance of a program.
 - What does PID represent? A unique identifier for a process while it is running.
-- Two processes I observed: [FILL IN from your own Activity Monitor / process list.]
+- Two processes I observed: Brave and Finder
 
 ### Task 3.3 — Paths and permissions
 An absolute path describes a location from the filesystem root. A relative path describes a location in relation to the current directory.
 
-- Absolute path example: `[FILL IN a privacy-safe path; replace your home folder with ~ if needed]`
-- Relative path example: `mission-03-operating-system/README.md`
+- Absolute path: Shows the complete location of a file.
+- Relative path: Shows the location based on the current folder.
+
 - `r` means read, `w` means write, and `x` means execute. For a directory, execute permission allows traversal/access.
 
 Use `ls -l` on a practice file inside the repository and record its permission letters: [FILL IN]. Do not change system permissions.
@@ -43,20 +44,9 @@ Use `ls -l` on a practice file inside the repository and record its permission l
 | Security and permissions | Controls access to accounts, files and resources. | Requiring permission to access protected files |
 
 ## 3. Commands / tools used
-`sw_vers`, `df -h /`, `top`, `head`, `pwd`, `ls -l`, Activity Monitor. [FILL IN the tools actually used.]
-
+`sw_vers`, `df -h /`, `top`, `head`, `pwd`, `ls -l`, Activity Monitor.
 ## 4. My understanding
 The operating system manages hardware resources and provides common services to applications. Processes are running programs, paths identify file locations, and permissions determine which actions are allowed.
 
 ## 5. Difficulties faced
-[FILL IN actual difficulty or “No major difficulties”.]
-
-## 6. How I resolved them
-[FILL IN actual steps or “Not applicable”.]
-
-## 7. Evidence / files
-- Privacy-safe observations in this README.
-- [FILL IN: Any redacted screenshot or selected output.]
-
-## 8. Commit details
-[FILL IN actual commit message and verify the push.]
+Couldn't understand the difference in absolute and relative paths before but after I learned about them now I know the difference.
