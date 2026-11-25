@@ -56,21 +56,10 @@ python3 number_converter.py
 ## 3. Commands / tools used
 - Python built-ins: `bin()`, `hex()`, `int()`, `input()`, `print()`.
 - `python3 number_converter.py` runs the converter.
-- [FILL IN: Record the actual tests you ran.]
 
 ## 4. My understanding
 Binary uses base 2, decimal uses base 10 and hexadecimal uses base 16. Python's conversion functions make it easy to check manual calculations. Character encodings map text characters to numeric representations.
 
 ## 5. Difficulties faced
-[FILL IN actual difficulty or “No major difficulties”.]
+No major difficulties.
 
-## 6. How I resolved them
-[FILL IN actual steps or “Not applicable”.]
-
-## 7. Evidence / files
-- `number_converter.py`
-- This README
-- [FILL IN: Any screenshot or output evidence.]
-
-## 8. Commit details
-[FILL IN actual commit message and verify the push.]
