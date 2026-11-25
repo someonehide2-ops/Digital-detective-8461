@@ -35,21 +35,12 @@ A compiler generally translates a program before it runs, while an interpreter c
 ## 3. Commands / tools used
 - `python3 hello.py` runs the Python script.
 - Text editor creates and saves `hello.py`.
-- [FILL IN: Confirm the command and output you actually observed.]
-
+- 
 ## 4. My understanding
 A program is a set of instructions. A compiler and an interpreter are different ways of translating or executing those instructions, and real language implementations can combine approaches.
 
 ## 5. Difficulties faced
-[FILL IN actual difficulty or “No major difficulties”.]
+No major difficulties.
 
-## 6. How I resolved them
-[FILL IN actual steps or “Not applicable”.]
-
-## 7. Evidence / files
-- `hello.py`
-- This README
-- [FILL IN: Add a screenshot of the successful run if required.]
-
-## 8. Commit details
+ details
 [FILL IN actual commit message and verify the push.]
