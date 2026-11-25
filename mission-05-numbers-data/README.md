@@ -28,7 +28,7 @@ int('1F', 16)  # 31
 hex(int('1111', 2))  # '0xf'
 ```
 
-Record your actual tests and results: [FILL IN if your instructor expects a separate observation log.]
+Record your actual tests and results: [Run these in Python and confirm the results.]
 
 ### Task 5.3 — Number converter
 The `number_converter.py` file in this folder asks for a positive whole number and prints its binary and hexadecimal forms.
