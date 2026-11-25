@@ -28,7 +28,7 @@ nslookup example.com
 - A DNS lookup shows DNS records, commonly including the IP address associated with a domain.
 - DNS lets people use domain names instead of remembering numeric IP addresses.
 
-Your actual result: [FILL IN whether the test succeeded and a privacy-safe summary of the DNS result. Do not publish your own IP address or Wi-Fi details.]
+My result : DNS is useful because we normally remember website names instead of IP addresses. DNS helps the browser find the address of the website.
 
 ### Task 7.3 — What happens when a website opens?
 1. The user enters a website address in a browser; the browser acts as a client.
@@ -40,20 +40,10 @@ Your actual result: [FILL IN whether the test succeeded and a privacy-safe summa
 7. The browser interprets the response and displays the website to the user.
 
 ## 3. Commands / tools used
-`ping -c 4 example.com`, `nslookup example.com`, and a web browser. [FILL IN only tools you actually used.]
+`ping -c 4 example.com`, `nslookup example.com`, and a web browser. 
 
 ## 4. My understanding
 Networks let devices exchange information. DNS connects human-readable domain names to network addresses, routers forward traffic, and protocols define how devices communicate. In client-server communication, the browser requests information and a server responds.
 
 ## 5. Difficulties faced
-[FILL IN actual difficulty or “No major difficulties”.]
-
-## 6. How I resolved them
-[FILL IN actual steps or “Not applicable”.]
-
-## 7. Evidence / files
-- This README
-- [FILL IN: Add privacy-safe command output or screenshots if required.]
-
-## 8. Commit details
-[FILL IN actual commit message and verify the push.]
+ No major difficulties.
